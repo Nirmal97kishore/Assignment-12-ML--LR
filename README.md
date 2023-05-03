@@ -1,2 +1,2 @@
-# Assignment-12-ML--LR
-Assignment 12 (ML)
+# LogisticRegression Assignment-12-ML
+LogisticRegression Assignment 12 (ML)
